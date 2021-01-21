@@ -1,5 +1,9 @@
 # ACM Research Coding Challenge (Spring 2021)
 
+
+
+# Challenge Instructions
+
 ## No Collaboration Policy
 
 **You may not collaborate with anyone on this challenge.** You _are_ allowed to use Internet documentation. If you _do_ use existing code (either from Github, Stack Overflow, or other sources), **please cite your sources in the README**.
