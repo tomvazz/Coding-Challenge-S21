@@ -26,7 +26,7 @@ After importing this repository into a python IDE, I followed these steps,
 Chang, Jeff, et al. Biopython Tutorial and Cookbook, 4 Sept. 2020, biopyt[]()hon.or[]()g/DIST[]()/docs/[]()tutori[]()al/Tut[]()orial.[]()html#s[]()ec336.
 
 ## 
-![147-1476219_vector-library-sto](https://user-images.githubusercontent.com/69063190/105285633-64c98c00-5b7a-11eb-8877-68fcc0c3aac6.png)
+![genome_map](https://user-images.githubusercontent.com/69063190/105424355-d520ed80-5c0c-11eb-89b6-5c602d82f985.png)
 
 # Challenge Instructions
 
