@@ -1,6 +1,11 @@
 # ACM Research Coding Challenge (Spring 2021)
 
 
+### Citation:
+Chang, Jeff, et al. Biopython Tutorial and Cookbook, 4 Sept. 2020, biopyt[]()hon.or[]()g/DIST[]()/docs/[]()tutori[]()al/Tut[]()orial.[]()html#s[]()ec336.
+
+## 
+![147-1476219_vector-library-sto](https://user-images.githubusercontent.com/69063190/105285633-64c98c00-5b7a-11eb-8877-68fcc0c3aac6.png)
 
 # Challenge Instructions
 
