@@ -1,11 +1,28 @@
 # ACM Research Coding Challenge (Spring 2021)
 
-### Resources Used
+## Solution Arrival
+Before implementing any code, the first step I took was to understand the purpose and structure of a GenBank file. I learned that GenBank is a database that contains information regarding necleotide sequences and that each file holds genomic information of a specific organism. I learned about each section of the file, especially the features and origin sections.
+
+The next step I took was researching libraries that not only allowed for the parsing of the GenBank file but also the analysis and implementation of this information onto a visual diagram. In this case the diagram had to be a circular genome map that outputs as either a JPG, PNG, or JPEG file. I found that the **biopython** library, a tool created for biological computation, had all the features I needed to accomplish this goal. To learn more about this library I watched a comprehensive video on YouTube and visited the official biopython website which also contained instructions and documantation that would greatly help me throughout the project. 
+
+After importing this repository into a python IDE, I followed these steps,
+
+ 1. **Installed required libraries** - These libraries included biopython to analyze the GenBank data, reportlab and bio to build the circular genome map diagram and export the map as a png/jpg file
+ 2. **Parsed GenBank file** - Using biopython I retrieved and stored the contents of the Genome.gb file
+ 3. **Set up diagram** - Created an empty diagram, circular track that would be placed onto the diagram, and a feature set that would be placed onto the track
+ 4. **Built bar_display function** - Bars displayed in and out of the circular track were set up as well as the labels of each gene that were retrieved from the GenBank file. Arrow format and sizing were also set
+ 5. **Created text file with a list of recognition sequences** - After researching enzymes in the specified organism, seven restriction enzymes and their sequences were selected to display 
+ 6. **Built sequence_retrieval function** - contents of text file were retrieved and stored in a list
+ 7. **Built sequence_placement function** - retrieved enzymes were located in their recognition sites in the tomato curly stunt virus genome sequence by traversing the sequence data retrieved from the GenBank file. Enzyme sequences were set to be displayed in the genome map where they were found to be located in the organism's dna sequence
+ 8. **Built output_file function** - circular diagram is drawn using the installed ReportLab objects and diagram is redered to a png and jpg file format 
+
+
+## Resources Used
 * biopython
 * reportlab
 * bio
 
-### Citation
+## Citation
 Chang, Jeff, et al. Biopython Tutorial and Cookbook, 4 Sept. 2020, biopyt[]()hon.or[]()g/DIST[]()/docs/[]()tutori[]()al/Tut[]()orial.[]()html#s[]()ec336.
 
 ## 
