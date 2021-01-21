@@ -1,0 +1,7 @@
+GAATTC - EcoRI
+GGATCC - BamHI
+AGCT - Alul
+GGGCCC - Apal
+GACGT - AatII
+CCGG - MspI HpaII
+GTCGAC - SalI
