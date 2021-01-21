@@ -14,7 +14,7 @@ After importing this repository into a python IDE, I followed these steps,
  5. **Created text file with a list of recognition sequences** - After researching enzymes in the specified organism, seven restriction enzymes and their sequences were selected to display 
  6. **Built sequence_retrieval function** - contents of text file were retrieved and stored in a list
  7. **Built sequence_placement function** - retrieved enzymes were located in their recognition sites in the tomato curly stunt virus genome sequence by traversing the sequence data retrieved from the GenBank file. Enzyme sequences were set to be displayed in the genome map where they were found to be located in the organism's dna sequence
- 8. **Built output_file function** - circular diagram was drawn using the installed ReportLab objects and diagram was redered to a png and jpg file format 
+ 8. **Built output_file function** - circular diagram was drawn using the installed ReportLab objects and for output, diagram was redered as a png and jpg file format 
 
 
 ## Resources Used
