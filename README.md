@@ -1,7 +1,11 @@
 # ACM Research Coding Challenge (Spring 2021)
 
+### Resources Used
+* biopython
+* reportlab
+* bio
 
-### Citation:
+### Citation
 Chang, Jeff, et al. Biopython Tutorial and Cookbook, 4 Sept. 2020, biopyt[]()hon.or[]()g/DIST[]()/docs/[]()tutori[]()al/Tut[]()orial.[]()html#s[]()ec336.
 
 ## 
